@@ -1,4 +1,12 @@
 title: "Radio Telescope Project"
-description: "Making a Radio Telescope For Investiagating Dark Matter via 21 cm Hydrojen Spectrume Observation"
+description: "Making a radio telescope for investigating dark matter via 21 cm Hydrogen Spectrum observation"
 author: "Büşra Erdem, Orhan Ural, Doruk Çabuk"
 theme: jekyll-theme-cayman
+
+# Üst menüde görünecek sayfalar ve sıralaması:
+header_pages:
+  - index.md
+  - projects.md
+  - system.md
+  - programs.md
+  - who-we-are.md
