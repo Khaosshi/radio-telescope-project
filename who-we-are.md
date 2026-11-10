@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who We Are?
+title: Who We Are
 ---
 
 # Research Team
